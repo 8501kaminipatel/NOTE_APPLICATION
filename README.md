@@ -1,4 +1,5 @@
-📝 Full Stack Note Application
+<h1>📝 Full Stack Note Application</h1>
+
 This is a full-stack Note App built using:
 
 🔧 Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
