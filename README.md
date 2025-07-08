@@ -1,24 +1,24 @@
-<h1>📝 Full Stack Note Application</h1>
+<h1>📝 Full Stack Note Application</h1></br>
 
-This is a full-stack Note App built using:
+This is a full-stack Note App built using:</br>
 
-🔧 Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
+🔧 Backend: Node.js, Express.js, MongoDB, Mongoose, JWT</br>
 
-🎨 Frontend: React.js (Vite), Axios, React Router, Context API
+🎨 Frontend: React.js (Vite), Axios, React Router, Context API</br>
 
-🚀 Features
-👤 User Features
-Register new account
+🚀 Features </br>
+👤 User Features</br>
+Register new account</br>
 
-Login securely (JWT in HTTP-only cookie)
+Login securely (JWT in HTTP-only cookie)</br>
 
-Auto-login on refresh
+Auto-login on refresh</br>
 
-Logout
+Logout</br>
 
-📝 Note Features
-Create, Read, Update, Delete notes
+📝 Note Features</br>
+Create, Read, Update, Delete notes</br>
 
-Notes are private (user-specific)
+Notes are private (user-specific)</br>
 
 Auto refresh after note updates
